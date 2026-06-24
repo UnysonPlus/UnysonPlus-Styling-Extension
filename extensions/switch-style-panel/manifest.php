@@ -11,8 +11,8 @@ $manifest['description'] = __(
     'fw' 
 );
 
-$manifest['version']     = '1.0.0';
-$manifest['display']     = true;
+$manifest['version']     = '1.0.1';
+$manifest['display']     = false;
 $manifest['standalone']  = true;
 
 // Repo Info
